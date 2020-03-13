@@ -1,0 +1,10 @@
+C:\Users\42Robotics\source\repos\StereoKitProject_ballon\StereoKitProject_ballon\bin\Debug\netcoreapp2.0\StereoKitProject_ballon.deps.json
+C:\Users\42Robotics\source\repos\StereoKitProject_ballon\StereoKitProject_ballon\bin\Debug\netcoreapp2.0\StereoKitProject_ballon.runtimeconfig.json
+C:\Users\42Robotics\source\repos\StereoKitProject_ballon\StereoKitProject_ballon\bin\Debug\netcoreapp2.0\StereoKitProject_ballon.runtimeconfig.dev.json
+C:\Users\42Robotics\source\repos\StereoKitProject_ballon\StereoKitProject_ballon\bin\Debug\netcoreapp2.0\StereoKitProject_ballon.dll
+C:\Users\42Robotics\source\repos\StereoKitProject_ballon\StereoKitProject_ballon\bin\Debug\netcoreapp2.0\StereoKitProject_ballon.pdb
+C:\Users\42Robotics\source\repos\StereoKitProject_ballon\StereoKitProject_ballon\obj\Debug\netcoreapp2.0\StereoKitProject_ballon.csprojAssemblyReference.cache
+C:\Users\42Robotics\source\repos\StereoKitProject_ballon\StereoKitProject_ballon\obj\Debug\netcoreapp2.0\StereoKitProject_ballon.AssemblyInfoInputs.cache
+C:\Users\42Robotics\source\repos\StereoKitProject_ballon\StereoKitProject_ballon\obj\Debug\netcoreapp2.0\StereoKitProject_ballon.AssemblyInfo.cs
+C:\Users\42Robotics\source\repos\StereoKitProject_ballon\StereoKitProject_ballon\obj\Debug\netcoreapp2.0\StereoKitProject_ballon.dll
+C:\Users\42Robotics\source\repos\StereoKitProject_ballon\StereoKitProject_ballon\obj\Debug\netcoreapp2.0\StereoKitProject_ballon.pdb
